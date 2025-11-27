@@ -60,6 +60,10 @@ DB_PORT=3306
 ```
 % php artisan migrate --seed
 ```
+### シンボリックリンク
+```
+% php artisan storage:link
+```
 
 ## 使用技術（実行環境）
 ・PHP 8.2<br>
